@@ -1,0 +1,15 @@
+2025/08/17 13:12:25.197117 Starting Zabbix Agent 2 (7.4.1)
+2025/08/17 13:12:25.199276 OpenSSL library (OpenSSL 3.5.1 1 Jul 2025) initialized
+2025/08/17 13:12:25.199345 Cannot initialize PID file: cannot open PID file [/var/run/zabbix/zabbix_agent2.pid]: open /var/run/zabbix/zabbix_agent2.pid: no such file or directory.
+2025/08/17 13:21:05.672699 Starting Zabbix Agent 2 (7.4.1)
+2025/08/17 13:21:05.674438 OpenSSL library (OpenSSL 3.5.1 1 Jul 2025) initialized
+2025/08/17 13:21:05.674501 Cannot initialize PID file: cannot open PID file [/var/run/zabbix/zabbix_agent2.pid]: open /var/run/zabbix/zabbix_agent2.pid: no such file or directory.
+2025/08/17 13:29:42.443623 Starting Zabbix Agent 2 (7.4.1)
+2025/08/17 13:29:42.444882 OpenSSL library (OpenSSL 3.5.1 1 Jul 2025) initialized
+2025/08/17 13:29:42.444948 Cannot initialize PID file: cannot open PID file [/var/run/zabbix/zabbix_agent2.pid]: open /var/run/zabbix/zabbix_agent2.pid: no such file or directory.
+2025/08/18 20:43:55.253014 Starting Zabbix Agent 2 (7.4.1)
+2025/08/18 20:43:55.256488 OpenSSL library (OpenSSL 3.5.1 1 Jul 2025) initialized
+2025/08/18 20:43:55.257600 Cannot initialize PID file: cannot open PID file [/var/run/zabbix/zabbix_agent2.pid]: open /var/run/zabbix/zabbix_agent2.pid: no such file or directory.
+2025/08/18 20:47:22.601307 Starting Zabbix Agent 2 (7.4.1)
+2025/08/18 20:47:22.603123 OpenSSL library (OpenSSL 3.5.1 1 Jul 2025) initialized
+2025/08/18 20:47:22.603213 Cannot initialize PID file: cannot open PID file [/var/run/zabbix/zabbix_agent2.pid]: open /var/run/zabbix/zabbix_agent2.pid: no such file or directory.
